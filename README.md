@@ -1,4 +1,5 @@
 # RastStudimi
+
 1-10. Zgjedhja e një kursi
 Do të zgjidhja një kurs për Inteligjencën Artificiale (AI), sepse është një fushë në zhvillim. Trajnimi online më pëlqen sepse ofron fleksibilitet, kursen kohë dhe më lejon të mësoj me ritmin tim.
 1-11. PluralSight mund të rrisë të ardhurat duke:
